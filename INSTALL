@@ -1,0 +1,9 @@
+Building Nefcoin
+
+See doc/readme-qt.rst for instructions on building Nefcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Nefcoin.
+
+See doc/build-*.txt for instructions on building nefcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Nefcoin.
